@@ -7,3 +7,10 @@
     - 데이콘: 유전체 정보 품종 분류 AI 경진대회 [(링크)](https://github.com/Leehongseok-code/AIProjects/blob/master/%EC%9C%A0%EC%A0%84%EC%B2%B4_%EC%A0%95%EB%B3%B4_%ED%92%88%EC%A2%85_%EB%B6%84%EB%A5%98_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_Github.ipynb)
     - 개인 프로젝트: 이미지 인식 기반 크롬 공룡 게임 봇(AIDino) [(링크)](https://github.com/Leehongseok-code/AIProjects)
   - 생성형 AI 활용 서비스 프로젝트
+    - Chat GPT, Dall-e를 활용한 금융 프로필 생성 서비스 [(링크)](https://github.com/Leehongseok-code/Syncaton)
+    - Chat GPT를 활용한 뉴스 기사 요약 서비스 [(링크)](https://github.com/Leehongseok-code/TeamF)
+    - Chat GPT, Dall-e를 활용, 콜라주 생성을 통한 심리치료 서비스 [(랑크)](https://github.com/Leehongseok-code/skthackaton)
+  - 웹 개발 프로젝트
+    - 개발창업동아리 멋쟁이사자처럼 교내 리쿠르팅 페이지 제작 프로젝트 [(링크)](https://github.com/LikeLionKURecruit/RecruitPage)
+  - 그 외
+    - midi 파일 악기 음색변환 프로젝트 [(링크)](https://github.com/Leehongseok-code/Miditowav_Honglee)
