@@ -10,10 +10,11 @@
     - 💰 Chat GPT, Dall-e를 활용한 금융 프로필 생성 서비스 [(링크)](https://github.com/Leehongseok-code/Syncaton)
     - 📰 Chat GPT를 활용한 뉴스 기사 요약 서비스 [(링크)](https://github.com/Leehongseok-code/TeamF)
     - 🩹 Chat GPT, Dall-e를 활용, 콜라주 생성을 통한 심리치료 서비스 [(링크)](https://github.com/Leehongseok-code/skthackaton)
-    -  Video-LLaMA(BLIP-2 기반)를 활용한 뇌졸중 조기진단 서비스 [(링크)](https://github.com/Leehongseok-code/LLapport)
+    - 💊  Video-LLaMA(BLIP-2 기반)를 활용한 뇌졸중 조기진단 서비스 [(링크)](https://github.com/Leehongseok-code/LLapport)
   - 웹 개발 프로젝트
     - 🦁 개발창업동아리 멋쟁이사자처럼 교내 리쿠르팅 페이지 제작 프로젝트 [(링크)](https://github.com/LikeLionKURecruit/RecruitPage)
   - 그 외
     - 🌎 분산 시스템 활용 파일 동기화 & 공유 서비스 [(링크)](https://github.com/Leehongseok-code/201912335_CM)
     - 🎼 midi 파일 악기 음색변환 프로젝트 [(링크)](https://github.com/Leehongseok-code/Miditowav_Honglee)
     - 🪴 라즈베리파이 활용 스마트팜 프로젝트 [(링크)](https://github.com/Leehongseok-code/raspberrySmartFarm)
+    - 📖 TIL(Today I Learned) 작성 링크 [(링크)](https://github.com/Leehongseok-code/TIL)
