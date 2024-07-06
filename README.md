@@ -21,6 +21,6 @@
     - 📖 TIL(Today I Learned) 작성 링크 [(링크)](https://github.com/Leehongseok-code/TIL)
 
 - ### 활동
-  - 2024.02 ~ 2024.04 : AI 인턴, Growdle
-  - 2022.11 ~ 2023.02 : 동계방학 현장실습, AI 인턴, Voinosis
+  - 2024.06 ~ : AI 인턴, Growdle
+  - 2024.01 ~ 2024.02 : 동계방학 현장실습, AI 인턴, Voinosis
 
