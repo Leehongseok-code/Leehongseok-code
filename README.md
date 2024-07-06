@@ -7,6 +7,7 @@
     - 🧬 데이콘: 유전체 정보 품종 분류 AI 경진대회 [(링크)](https://github.com/Leehongseok-code/AIProjects/blob/master/%EC%9C%A0%EC%A0%84%EC%B2%B4_%EC%A0%95%EB%B3%B4_%ED%92%88%EC%A2%85_%EB%B6%84%EB%A5%98_AI_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_Github.ipynb)
     - 🦖 개인 프로젝트: 이미지 분류 기반 크롬 공룡 게임 봇(AIDino) [(링크)](https://github.com/Leehongseok-code/AIProjects)
   - 생성형 AI 활용 서비스 프로젝트
+    - 🖨 openAI API, Epson Connect API를 활용한 단어 카드 생성, 출력 서비스 [(링크)](https://github.com/Leehongseok-code/BbobaVoca.git)
     - 💰 Chat GPT, Dall-e를 활용한 금융 프로필 생성 서비스 [(링크)](https://github.com/Leehongseok-code/Syncaton)
     - 📰 Chat GPT를 활용한 뉴스 기사 요약 서비스 [(링크)](https://github.com/Leehongseok-code/TeamF)
     - 🩹 Chat GPT, Dall-e를 활용, 콜라주 생성을 통한 심리치료 서비스 [(링크)](https://github.com/Leehongseok-code/skthackaton)
@@ -18,3 +19,8 @@
     - 🎼 midi 파일 악기 음색변환 프로젝트 [(링크)](https://github.com/Leehongseok-code/Miditowav_Honglee)
     - 🪴 라즈베리파이 활용 스마트팜 프로젝트 [(링크)](https://github.com/Leehongseok-code/raspberrySmartFarm)
     - 📖 TIL(Today I Learned) 작성 링크 [(링크)](https://github.com/Leehongseok-code/TIL)
+
+- ### 활동
+  2024.02 ~ 2024.04 : AI 인턴, Growdle
+  2022.11 ~ 2023.02 : 동계방학 현장실습, AI 인턴, Voinosis
+
