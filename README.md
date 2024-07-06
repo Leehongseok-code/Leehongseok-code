@@ -33,6 +33,7 @@
     - 2023.01 ~ 2023.02 : <인공지능 기초 다지기> 코칭스터디 : 2023 팀 리더 수료
     - 2022.09 ~ 2022.12 : MapleStory Worlds X SUPER HACKATHON 2022 기획 + 개발 트랙 수료
   - ## 🏆 Awards and honors
+    - 2024.06 : Epson Innovation Challenge 장려상
     - 2023.12 : 2023 CTO AI 경진대회 장려상
     - 2023.11 : 2023 KU SW 경진대회 심사위원특별상
     - 2023.10 : 2023 KU 메디컬 해커톤 장려상
