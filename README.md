@@ -2,7 +2,7 @@
 추천 시스템, 시계열 예측, LLM에 관심이 많습니다!
 
 - ### 대표 프로젝트 카테고리 🖥️
-  - AX를 위한 도구 개발 프로젝트
+  - AI Agent를 위한 도구 개발 프로젝트
     - 📬 Cluade Code의 Context 모니터링을 위한 VS Code Extension [(링크)](https://github.com/Leehongseok-code/claude-context-visualizer) 
   - AI 모델링 프로젝트
     - 🕹️ 리그오브레전드 캐릭터 간 유사도 분석 및 승패 예측 프로젝트 [(링크)](https://github.com/Leehongseok-code/RiotAI)
